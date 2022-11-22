@@ -1,0 +1,39 @@
+
+.container {
+    margin: 0 auto;
+    overflow-x:scroll;
+    width: 700px;
+    margin-top: 8%;
+   
+    background-color:transparent;
+   
+    
+}
+
+.wrapper {
+    overflow: hidden;
+    width: 1300px;
+    height: 230px;
+   
+    background-color:transparent;
+
+}
+
+.test1 {
+   
+    width:180px;
+    height: 350px;
+    float: left;  
+    background-color:transparent;
+    /* margin-left: 2px;
+  */
+ }
+ #cardx{
+    background-color:transparent;
+    background-color:rgba(0, 0, 0,.2);
+    color: white;
+ }
+ #img1{
+    height: 50px;
+ }
+

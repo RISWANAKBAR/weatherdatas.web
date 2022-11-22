@@ -1,0 +1,51 @@
+
+.place12{
+    
+    background-color:rgba(0, 0, 0,.2);
+    height: 330px;
+    /* padding-top: 15%; */
+    margin: auto;
+   /* margin-top: 50px; */
+   width: 45%;
+   /* padding: -20px; */
+   float: left;
+   /* background-image: none; */
+}
+
+.extra1{
+
+    height: 70px;
+    background-image: none;
+}
+
+.temp12{
+    
+    background-color:rgba(0, 0, 0,.2);
+    height: 330px;
+    margin: auto;
+    width: 45%;
+    float: left;
+    background-image: none;
+ 
+   
+}
+/* .extra{
+
+    height: 70px;
+    background-image: none;
+} */
+#h1{
+    margin-left: 2%;
+    background-image: none;
+}
+.row{
+    background-image: none;
+}
+#img12{
+    height: 20%;
+}
+#bb{
+    margin-left: 78%;
+    /* float: left; */
+    font-size: 10px;
+}
